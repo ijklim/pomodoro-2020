@@ -3,7 +3,7 @@
 Built using Vue.js 2.6.11 with PWA (Progressive Web Apps) and Bootstrap 4.4.1.
 
 <p align="center">
-  <a href="https://pomodoro-timer-2020.github.io" target="_blank">
+  <a href="https://pomodoro.ivan-lim.com" target="_blank">
     <img src="https://github.com/ijklim/pomodoro-2020/blob/master/public/img/screenshot.jpg" width="990px">
     <br>
     Live Demo
@@ -36,7 +36,7 @@ Whether to start next interval when the current one is completed | autonext | of
 Start timer immediately | autostart | off | on/off
 Play sound when the current interval is completed | sound | on | on/off
 
-Example: https://pomodoro-timer-2020.github.io?autonext=on&autostart=on&sound=off
+Example: https://pomodoro.ivan-lim.com?autonext=on&autostart=on&sound=off
 
 
 ## Usage Tip
