@@ -42,7 +42,7 @@ Example: https://pomodoro.ivan-lim.com?autonext=on&autostart=on&sound=off
 ## Usage Tip
 
 To open this app in a small window on a desktop machine, type the following into the browser address bar or create a bookmark:
-**javascript:window.open('https://pomodoro-timer.github.io', 'pomodoro', 'height=350,width=400')**
+**javascript:window.open('https://pomodoro.ivan-lim.com', 'pomodoro', 'height=350,width=400')**
 
 Note #1: Sometimes browser will skip the front **javascript:** during paste, type this in manually if necessary.
 
