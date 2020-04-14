@@ -4,7 +4,7 @@ Built using Vue.js 2.6.11 with PWA (Progressive Web Apps) and Bootstrap 4.4.1.
 
 <p align="center">
   <a href="https://pomodoro-timer-2020.github.io" target="_blank">
-    <img src="https://github.com/ijklim/pomodoro-2020/blob/master/img/screenshot.jpg" width="990px">
+    <img src="https://github.com/ijklim/pomodoro-2020/blob/master/public/img/screenshot.jpg" width="990px">
     <br>
     Live Demo
   </a>
